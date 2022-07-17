@@ -16,3 +16,10 @@ Contribution is open to everyone, but please explain your case in detail so othe
 - Not contacting you by phone or having a non-native accent
 - Trying to access your bank information.
 - Saying that they are out of the city, needing some money transfers to be done.
+
+
+
+
+| Email Address | Phone Number | First Occurrence Date (Day/Month/Year) | Pretended to be | Additional Info |
+| ----------- | ----------- | ----------- | ----------- |  ----------- | 
+| myofficemail1@remaxcapitalcity.com| +12027430835| 16/6/2022 | Christopher Sommerfeld | used interac for scamming: Luis A Lopez, yg.fetty@gmail.com |
