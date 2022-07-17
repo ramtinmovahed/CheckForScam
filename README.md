@@ -1,4 +1,4 @@
-# CheckForScam
+# Check For Scams!!
 
 ### A goto repository to check whether you are possibly getting scammed or not.
 
